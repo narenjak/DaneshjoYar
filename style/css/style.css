@@ -9,3 +9,9 @@ body{
     text-decoration: none;
     direction: rtl;
 }
+
+.stoneCard{
+    transform: rotate(45deg);
+    height: 250px;
+    width: 250px;
+}
